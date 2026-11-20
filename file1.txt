@@ -1,0 +1,2 @@
+This is my first confidential file.
+This file is protected using AES-256-GCM encryption.

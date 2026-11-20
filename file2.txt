@@ -1,0 +1,2 @@
+This is my second confidential file.
+Cryptographic Encryption Vault testing.

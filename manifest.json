@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "source_directory": "test_data",
+    "salt": "fD7MIbE4zi8v7s1WlaKRgg==",
+    "files": [
+        {
+            "path": "file1.txt",
+            "sha256": "a1ec414682c49b5a2d36e906d6b1a9aef31963f69322e4c81febf35f46b95f8c"
+        },
+        {
+            "path": "file2.txt",
+            "sha256": "4a1d7951a0354f8d44db9c0ed1efdf336a0ec2647eae2447575d22cd16cf095f"
+        }
+    ]
+}
